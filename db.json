@@ -1,0 +1,260 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "mobile": "7894561230",
+      "password": "alex",
+      "id": "O6C4g1Akbvs"
+    },
+    {
+      "name": "Bob",
+      "email": "bob@gmail.com",
+      "mobile": "4567891230",
+      "password": "1234",
+      "id": "12fDp5yr1RQ"
+    },
+    {
+      "name": "dave",
+      "email": "dave@gmail.com",
+      "mobile": "5698231470",
+      "password": "12345",
+      "id": "72Zzuy_cJsA"
+    },
+    {
+      "name": "saad",
+      "email": "saad@gmail.com",
+      "mobile": "9596524969",
+      "password": "123",
+      "id": "9t8w1z3eh-s"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "product_name": "Samsung F23",
+      "product_price": 20000,
+      "product_category": "Electronics",
+      "product_image": "https://m.media-amazon.com/images/I/7101h6htEgL._AC_UY327_FMwebp_QL65_.jpg",
+      "product_description": "Monster Camera - 50MP OIS (F1.8) Main Wide Angle Camera + 5MP (F2.2) Ultra Wide Angle Camera + 2MP Macro Angle Camera, 13MP (F2.0) Selfie Camera, Video Maximum Resolution of FHD (1920 x 1080) at 30fps.",
+      "product_ratings": 4
+    },
+    {
+      "id": "2",
+      "product_name": "Nike Air Max",
+      "product_price": 6500,
+      "product_category": "Fashion",
+      "product_image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "product_description": "Comfortable running shoes with breathable mesh, lightweight cushioning, and durable rubber outsole.",
+      "product_ratings": 5
+    },
+    {
+      "id": "3",
+      "product_name": "Levi's Men's Jeans",
+      "product_price": 2499,
+      "product_category": "Fashion",
+      "product_image": "https://m.media-amazon.com/images/I/71ykbtNEnPL._AC_UL480_FMwebp_QL65_.jpg",
+      "product_description": "Slim-fit stretch denim jeans with premium cotton fabric for everyday comfort.",
+      "product_ratings": 4
+    },
+    {
+      "id": "4",
+      "product_name": "Apple MacBook Air M3",
+      "product_price": 114900,
+      "product_category": "Electronics",
+      "product_image": "https://m.media-amazon.com/images/I/61vmoL0Jt5L._AC_UL960_FMwebp_QL65_.jpg",
+      "product_description": "13-inch Retina Display, Apple M3 Chip, 16GB RAM, 512GB SSD, all-day battery life.",
+      "product_ratings": 5
+    },
+    {
+      "id": "5",
+      "product_name": "The Alchemist",
+      "product_price": 499,
+      "product_category": "others",
+      "product_image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "product_description": "A bestselling novel by Paulo Coelho about following your dreams and destiny.",
+      "product_ratings": 5
+    },
+    {
+      "id": "6",
+      "product_name": "Sony WH-CH520",
+      "product_price": 4499,
+      "product_category": "Electronics",
+      "product_image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "product_description": "Wireless Bluetooth headphones with up to 50 hours of battery life and clear sound.",
+      "product_ratings": 4
+    },
+    {
+      "id": "7",
+      "product_name": "Wooden Coffee Table",
+      "product_price": 7999,
+      "product_category": "others",
+      "product_image": "https://m.media-amazon.com/images/I/81+YZ5o8JbL._AC_UL480_FMwebp_QL65_.jpg",
+      "product_description": "Modern wooden coffee table with sturdy construction and elegant finish.",
+      "product_ratings": 4
+    },
+    {
+      "id": "8",
+      "product_name": "Milton Water Bottle",
+      "product_price": 699,
+      "product_category": "others",
+      "product_image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "product_description": "1L stainless steel insulated water bottle that keeps drinks hot or cold for hours.",
+      "product_ratings": 4
+    },
+    {
+      "id": "9",
+      "product_name": "Yonex Badminton Racket",
+      "product_price": 1999,
+      "product_category": "Sports",
+      "product_image": "https://m.media-amazon.com/images/I/712HuFGRcXL._AC_SX416_CB1169409_QL70_.jpg",
+      "product_description": "Lightweight badminton racket with high-tension frame for better control and power.",
+      "product_ratings": 5
+    },
+    {
+      "id": "10",
+      "product_name": "WOW Vitamin C Face Wash",
+      "product_price": 349,
+      "product_category": "others",
+      "product_image": "https://m.media-amazon.com/images/I/61z3mDJRpCL._AC_UL480_FMwebp_QL65_.jpg",
+      "product_description": "Vitamin C face wash that cleanses, brightens, and refreshes the skin.",
+      "product_ratings": 4
+    },
+    {
+      "id": "11",
+      "product_name": "Guitar",
+      "product_price": 30000,
+      "product_category": "others",
+      "product_image": "https://m.media-amazon.com/images/I/61c7bX3sRML._AC_UL480_FMwebp_QL65_.jpg",
+      "product_description": "Premium acoustic guitar with excellent sound quality, durable wooden body, smooth fretboard, and comfortable design—ideal for beginners and professionals.",
+      "product_ratings": 4
+    },
+    {
+      "id": "12",
+      "product_name": "Cricket Kit",
+      "product_price": 4000,
+      "product_category": "Sports",
+      "product_image": "https://m.media-amazon.com/images/I/61jnlX5mJGL._SL1500_.jpg",
+      "product_description": " Perfect for Beginners & Young Players – Designed for Cricket Kit for Kids, this set is ideal for beginners who want to start their cricket journey with high-quality gear inspired by Virat Kohli.",
+      "product_ratings": 5
+    },
+    {
+      "id": "13",
+      "product_name": "Football",
+      "product_price": 800,
+      "product_category": "Sports",
+      "product_image": "https://m.media-amazon.com/images/I/61nEBy+6y5L._AC_UL480_FMwebp_QL65_.jpg",
+      "product_description": "Boldfit Blaze Football Practise Foot Ball Training Match Football Size 5 Original for All Ages Group Rubber Moulded Standard Sports Foot Ball for Ground, Grass, Turf, Outdoor.",
+      "product_ratings": 4
+    },
+    {
+      "id": "14",
+      "product_name": "Bingo lays",
+      "product_price": 20,
+      "product_category": "Groceries",
+      "product_image": "https://images-eu.ssl-images-amazon.com/images/I/81oQOYKZHxL._AC_UL165_SR165,165_.jpg",
+      "product_description": "Bingo! Original Style Chilli Sprinkled - Flat Cut Spicy Potato Chips Pack for Snacks, 90g/85gram/90.7G(Weight may vary)",
+      "product_ratings": 3.3
+    },
+    {
+      "id": "15",
+      "product_name": "Parle Lays",
+      "product_price": 10,
+      "product_category": "Groceries",
+      "product_image": "https://m.media-amazon.com/images/I/71nSF8b9htL._SX522_.jpg",
+      "product_description": "Parle Wafers Piri Piri , 60g/70g/75g ( Weight May Vary )",
+      "product_ratings": 4.1
+    },
+    {
+      "id": "16",
+      "product_name": "Wrist Watch",
+      "product_price": 500,
+      "product_category": "Fashion",
+      "product_image": "https://m.media-amazon.com/images/I/614FDI7yxnL._SX522_.jpg",
+      "product_description": "AMERICANVIBER® Affordable Men’s Wrist Watch Under 499 |Men Watch | Classic Round Dial | Quartz Movement | Stainless Steel Belt | Lightweight & Durable Design | Analog Display | Trendy Party & Office Wear",
+      "product_ratings": 4.6
+    },
+    {
+      "id": "17",
+      "product_name": "Groceries",
+      "product_price": 500,
+      "product_category": "Groceries",
+      "product_image": "https://images-eu.ssl-images-amazon.com/images/I/71SrLH6HX3L._AC_UL165_SR165,165_.jpg",
+      "product_description": "SMOOTH & CREAMY TEXTURE: Each 250g block delivers a rich, smooth, and creamy cheddar flavour that melts beautifully for a variety of dishes.",
+      "product_ratings": 4.5
+    }
+  ],
+  "orders": [
+    {
+      "customer_id": "O6C4g1Akbvs",
+      "customer_name": "alex",
+      "customer_email": "alex@gmail.com",
+      "customer_phone": "1234567890",
+      "customer_address": "bangarpet",
+      "product_id": "2",
+      "product_name": "Nike Air Max",
+      "product_quantity": 1,
+      "total": 6500,
+      "order_date": "20/7/2026",
+      "product_img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "id": "G2QFOXRmrHs"
+    },
+    {
+      "customer_id": "9t8w1z3eh-s",
+      "customer_name": "saad",
+      "customer_email": "saad@gmail.com",
+      "customer_phone": "4568973215",
+      "customer_address": "Fayazabad, near alfiya store, bengaluru",
+      "product_id": "1",
+      "product_name": "Samsung F23",
+      "product_quantity": 2,
+      "total": 40000,
+      "order_date": "23/7/2026",
+      "product_img": "https://m.media-amazon.com/images/I/7101h6htEgL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "QKZ-06AI3Gk"
+    },
+    {
+      "customer_id": "9t8w1z3eh-s",
+      "customer_name": "SAAD",
+      "customer_email": "saad@gmail.com",
+      "customer_phone": "4568973215",
+      "customer_address": "bPET\n",
+      "product_id": "11",
+      "product_name": "Guitar",
+      "product_quantity": 2,
+      "total": 60000,
+      "order_date": "24/7/2026",
+      "product_img": "https://m.media-amazon.com/images/I/61c7bX3sRML._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "5VwRK5m7kBU"
+    },
+    {
+      "customer_id": "9t8w1z3eh-s",
+      "customer_name": "SAAD",
+      "customer_email": "alex@gmail.com",
+      "customer_phone": "4568973215",
+      "customer_address": "bPET\n",
+      "product_id": "8",
+      "product_name": "Milton Water Bottle",
+      "product_quantity": 1,
+      "total": 699,
+      "order_date": "24/7/2026",
+      "product_img": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "id": "y3zp1R2Y7M0"
+    },
+    {
+      "customer_id": "9t8w1z3eh-s",
+      "customer_name": "SAAD",
+      "customer_email": "alex@gmail.com",
+      "customer_phone": "4568973215",
+      "customer_address": "bPET\n",
+      "product_id": "7",
+      "product_name": "Wooden Coffee Table",
+      "product_quantity": 1,
+      "total": 7999,
+      "order_date": "24/7/2026",
+      "product_img": "https://m.media-amazon.com/images/I/81+YZ5o8JbL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "61Zufd14b3c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

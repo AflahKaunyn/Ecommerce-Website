@@ -1,0 +1,159 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+}
+
+#signup-btn,
+#login-btn,
+#view-btn {
+    width: 70px;
+    height: 25px;
+    background-color: rgb(8, 147, 239);
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.signup-form,
+.login-form {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.signup-form h2,
+.login-form h2 {
+    text-align: center;
+    color: rgb(1, 7, 124);
+    margin: 15px
+}
+
+.signup-form form,
+.login-form form {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+#signup,
+#login {
+    height: 25px;
+    background-color: rgb(8, 147, 239);
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+form p {
+    text-align: center;
+}
+
+form input {
+    height: 30px;
+    border-radius: 5px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 75px;
+    padding: 0px 15px 0px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(8, 147, 239);
+}
+
+.nav-right {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 30%;
+}
+
+.products-container,
+.product-details,
+.order-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.products,
+.product,
+.order {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.search-btns button {
+    width: 100px;
+    height: 25px;
+    background-color: rgb(8, 147, 239);
+    margin: 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.search-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+    row-gap: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.profilepic {
+    padding: 30px;
+    border-radius: 50px;
+    background-color: rgb(178, 111, 211);
+}
+
+.search-input{
+    margin-left: 10px;
+    border-radius:5px;
+    padding:5px;
+}
